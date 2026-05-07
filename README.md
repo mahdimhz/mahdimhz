@@ -19,7 +19,7 @@
 
 <p align="center">
   <a href="https://open.spotify.com/track/6iLzFJhs4ATwJn7P1utZIJ?si=d030dc66af254a09">
-    <img src="assets/spotify-light-of-the-seven-card.png" alt="Light of the Seven by Ramin Djawadi" width="500" />
+    <img src="assets/light-of-the-seven-minimal-card.png" alt="Light of the Seven by Ramin Djawadi" width="500" />
   </a>
 </p>
 
