@@ -19,10 +19,8 @@
 
 <p align="center">
   <a href="https://open.spotify.com/track/6iLzFJhs4ATwJn7P1utZIJ?si=d030dc66af254a09">
-    <img src="https://img.shields.io/badge/Light%20of%20the%20Seven-1DB954?style=for-the-badge&logo=spotify&logoColor=white" alt="Light of the Seven" />
+    <img src="assets/spotify-light-of-the-seven.svg" alt="Light of the Seven by Ramin Djawadi" width="640" />
   </a>
-  <br>
-  <em>Ramin Djawadi — a track that builds like a system under pressure.</em>
 </p>
 
 <hr>
