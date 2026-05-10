@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=8B5CF6&width=600&height=50&center=true&vCenter=true&multiline=false&lines=Hi%2C+I%27m+Mahdi+Mohammadzadeh;MSc+Data+Science+%7C+ML+%26+Signal+Processing;Building+models+that+work+in+the+real+world" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=8B5CF6&width=650&height=50&center=true&vCenter=true&multiline=false&lines=Hi%2C+I%27m+Mahdi+Mohammadzadeh;Data+Science+MSc+Student;Machine+Learning+%26+Applied+AI;Turning+data+into+reliable+models;Small+data%2C+big+questions" alt="Typing SVG" />
 </div>
 
 <hr>
@@ -11,8 +11,8 @@
 <hr>
 
 <p align="center">
-  End-to-end ML engineer — from raw signals to deployed models.<br>
-  Signal processing, time-series, statistical modeling, and MLOps.
+  MSc Data Science student working across machine learning, statistical modeling, and applied AI.<br>
+  I build clean, reproducible projects that connect data analysis, model development, and deployment.
 </p>
 
 <hr>
